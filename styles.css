@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+}
+
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: black;
+}
+
+.header a{
+    color: white;
+    text-decoration: none;
+}
+
+.orderbutton{
+    border-radius: 10px;
+    border: none;
+    width: 165px;
+    height: 49px;
+    background: #F6762C;
+}
