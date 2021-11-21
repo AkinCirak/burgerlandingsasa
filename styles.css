@@ -1,0 +1,26 @@
+.container{
+    padding: 0 150px;
+ background-image:url(./IGrzIxlfue1.png) ;  
+ background-size: cover;
+ height: 1000px; 
+}
+
+.banner {
+    width: 555px;
+    height: 267px;
+    padding: 400px 0;
+    color: white;
+}
+
+.banner p{
+    opacity: 0.5;
+}
+
+.orderbutton{
+border-radius: 10px;
+border: none;
+width: 165px;
+height: 49px;
+background: #f6762c;
+}
+
