@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    margin: 0;
+}
+
+.header{
+    font-family: 'roboto';
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: black;
+}
+
+.header a:hover{
+    color: white;
+    opacity: 1;
+}
+
+.header a{
+    opacity: 0.7;
+    color: white;
+    text-decoration: none;
+}
+
+.orderbutton{
+    border-radius: 10px;
+    border: none;
+    width: 165px;
+    height: 49px;
+    background: #F6762C;
+}
